@@ -1,6 +1,6 @@
 # TaskPulse: Intelligent Task Management and Insight Platform
 
-TaskPulse is a lightweight SaaS platform for intelligent task management and productivity insights. It’s a team task management and insight platform, simple on the surface, but built with real-world technologies.
+TaskPulse is a lightweight SaaS platform for intelligent task management and productivity insights, simple on the surface, but powered by real-world technologies like .NET, Go, and React.
 
 ---
 
