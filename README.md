@@ -29,6 +29,7 @@ Main data store shared between services.
 
 **Infra** – Docker Compose  
 Runs the full stack locally with one command.
+
 ---
 
 ## Folder structure
@@ -52,9 +53,3 @@ More setup instructions will be added as the stack grows.
 
 ---
 
-## Status
-
-Currently working on the backend foundation and Docker setup.  
-Frontend, worker, and AI agent will come next.
-
----
