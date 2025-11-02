@@ -29,15 +29,6 @@ Main data store shared between services.
 
 **Infra** – Docker Compose  
 Runs the full stack locally with one command.
-
----
-
-## Goals
-
-- Learn .NET and Go together in one practical system
-- Add an AI agent that provides real insights, not just data
-- Understand event-driven design and background processing
-- Build something that looks and feels like a real product
 ---
 
 ## Folder structure
@@ -67,7 +58,3 @@ Currently working on the backend foundation and Docker setup.
 Frontend, worker, and AI agent will come next.
 
 ---
-
-## About
-
-I’m building this project to learn and share progress publicly. Feel free to follow along or give feedback!
