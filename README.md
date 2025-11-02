@@ -1,6 +1,6 @@
 # TaskPulse: Intelligent Task Management and Insight Platform
 
-It’s a team task management and insight platform, simple on the surface, but built with real-world technologies.
+askPulse is a lightweight SaaS platform for intelligent task management and productivity insights. It’s a team task management and insight platform, simple on the surface, but built with real-world technologies.
 
 ---
 
