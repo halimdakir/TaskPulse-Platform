@@ -1,0 +1,65 @@
+# ===========================================
+# Rider / IntelliJ
+# ===========================================
+.idea/
+*.sln.iml
+*.user
+*.suo
+
+# ===========================================
+# .NET / ASP.NET Core
+# ===========================================
+bin/
+obj/
+*.user
+*.rsuser
+*.sln.docstates
+*.vs/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.dbmdl
+*.pdb
+*.cache
+*.log
+*.nvuser
+*.ncrunchsolution
+
+# ===========================================
+# Go
+# ===========================================
+bin/
+*.exe
+*.log
+*.out
+
+# ===========================================
+# Node / React (web-frontend)
+# ===========================================
+node_modules/
+build/
+dist/
+.cache/
+coverage/
+*.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===========================================
+# Python (AI agent)
+# ===========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.env
+*.egg-info/
+*.egg
+
+# ===========================================
+# System / OS files
+# ===========================================
